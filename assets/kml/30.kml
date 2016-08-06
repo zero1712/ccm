@@ -1,0 +1,1339 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20517&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:12&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432665 2130164&lt;/td&gt;&lt;td&gt;X1: 432665&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2130164&lt;/td&gt;&lt;td&gt;Latitude:19.26401&lt;/td&gt;&lt;td&gt;Longitude:-99.64077&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64077,19.26401</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20531&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Jacaranda&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Jacaranda mimosifolia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 14&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:17&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432663 2130001&lt;/td&gt;&lt;td&gt;X1: 432663&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2130001&lt;/td&gt;&lt;td&gt;Latitude:19.26253&lt;/td&gt;&lt;td&gt;Longitude:-99.64078000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Jacaranda</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64078000000001,19.26253</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20537&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Durazno&lt;/td&gt;&lt;td&gt;Otros Nombres :Melocoton&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus persica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2669&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432664 2129949&lt;/td&gt;&lt;td&gt;X1: 432664&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129949&lt;/td&gt;&lt;td&gt;Latitude:19.26207&lt;/td&gt;&lt;td&gt;Longitude:-99.64077&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Durazno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64077,19.26207</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20540&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 25&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:24&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2669&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432667 2129881&lt;/td&gt;&lt;td&gt;X1: 432667&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129881&lt;/td&gt;&lt;td&gt;Latitude:19.26145&lt;/td&gt;&lt;td&gt;Longitude:-99.64073999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64073999999999,19.26145</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20541&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Ciruelo&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus domestica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:24&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2669&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432668 2129876&lt;/td&gt;&lt;td&gt;X1: 432668&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129876&lt;/td&gt;&lt;td&gt;Latitude:19.26141&lt;/td&gt;&lt;td&gt;Longitude:-99.64073&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Ciruelo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64073,19.26141</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20546&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Jacaranda&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Jacaranda mimosifolia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 20&lt;/td&gt;&lt;td&gt;Altura (m): 5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:27&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129785&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129785&lt;/td&gt;&lt;td&gt;Latitude:19.26058&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Jacaranda</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26058</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20547&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Acacia negra&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Acacia melanoxylon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 16&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129784&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129784&lt;/td&gt;&lt;td&gt;Latitude:19.26057&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Acacia negra</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26057</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20548&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 4.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432667 2129771&lt;/td&gt;&lt;td&gt;X1: 432667&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129771&lt;/td&gt;&lt;td&gt;Latitude:19.26046&lt;/td&gt;&lt;td&gt;Longitude:-99.64073999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64073999999999,19.26046</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20549&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:29&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2674&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432665 2129770&lt;/td&gt;&lt;td&gt;X1: 432665&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129770&lt;/td&gt;&lt;td&gt;Latitude:19.26045&lt;/td&gt;&lt;td&gt;Longitude:-99.64076&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64076,19.26045</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20550&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Callistemo&lt;/td&gt;&lt;td&gt;Otros Nombres :Cepillo rojo&lt;/td&gt;&lt;td&gt;Nombre Científico: Callistemon viminalis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:29&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2674&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432665 2129769&lt;/td&gt;&lt;td&gt;X1: 432665&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129769&lt;/td&gt;&lt;td&gt;Latitude:19.26044&lt;/td&gt;&lt;td&gt;Longitude:-99.64076&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Callistemo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64076,19.26044</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20551&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2674&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129767&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129767&lt;/td&gt;&lt;td&gt;Latitude:19.26042&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26042</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20552&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:33&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2675&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129849&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129849&lt;/td&gt;&lt;td&gt;Latitude:19.26116&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26116</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20553&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:33&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2675&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129850&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129850&lt;/td&gt;&lt;td&gt;Latitude:19.26117&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26117</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20554&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:33&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2675&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129859&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129859&lt;/td&gt;&lt;td&gt;Latitude:19.26125&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26125</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20555&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:33&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2676&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432666 2129861&lt;/td&gt;&lt;td&gt;X1: 432666&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129861&lt;/td&gt;&lt;td&gt;Latitude:19.26127&lt;/td&gt;&lt;td&gt;Longitude:-99.64075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64075,19.26127</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20556&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Yuca&lt;/td&gt;&lt;td&gt;Otros Nombres :Palma izote, yuca gigante, yuca sin espinas&lt;/td&gt;&lt;td&gt;Nombre Científico: Yucca guatemalensis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 25&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:36&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2674&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432634 2129908&lt;/td&gt;&lt;td&gt;X1: 432634&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129908&lt;/td&gt;&lt;td&gt;Latitude:19.26169&lt;/td&gt;&lt;td&gt;Longitude:-99.64106&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Yuca</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64106,19.26169</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20557&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Yuca&lt;/td&gt;&lt;td&gt;Otros Nombres :Palma izote, yuca gigante, yuca sin espinas&lt;/td&gt;&lt;td&gt;Nombre Científico: Yucca guatemalensis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2673&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432623 2129905&lt;/td&gt;&lt;td&gt;X1: 432623&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129905&lt;/td&gt;&lt;td&gt;Latitude:19.26167&lt;/td&gt;&lt;td&gt;Longitude:-99.64116&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Yuca</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64116,19.26167</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20558&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Yuca&lt;/td&gt;&lt;td&gt;Otros Nombres :Palma izote, yuca gigante, yuca sin espinas&lt;/td&gt;&lt;td&gt;Nombre Científico: Yucca guatemalensis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 14&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2672&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432624 2129904&lt;/td&gt;&lt;td&gt;X1: 432624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129904&lt;/td&gt;&lt;td&gt;Latitude:19.26166&lt;/td&gt;&lt;td&gt;Longitude:-99.64115&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Yuca</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64115,19.26166</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20559&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432624 2129903&lt;/td&gt;&lt;td&gt;X1: 432624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129903&lt;/td&gt;&lt;td&gt;Latitude:19.26165&lt;/td&gt;&lt;td&gt;Longitude:-99.64115&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64115,19.26165</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20560&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432625 2129902&lt;/td&gt;&lt;td&gt;X1: 432625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129902&lt;/td&gt;&lt;td&gt;Latitude:19.26164&lt;/td&gt;&lt;td&gt;Longitude:-99.64113999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64113999999999,19.26164</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20561&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432625 2129902&lt;/td&gt;&lt;td&gt;X1: 432625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129902&lt;/td&gt;&lt;td&gt;Latitude:19.26164&lt;/td&gt;&lt;td&gt;Longitude:-99.64113999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64113999999999,19.26164</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20562&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:37&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432625 2129901&lt;/td&gt;&lt;td&gt;X1: 432625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129901&lt;/td&gt;&lt;td&gt;Latitude:19.26163&lt;/td&gt;&lt;td&gt;Longitude:-99.64113999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64113999999999,19.26163</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20563&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:38&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432605 2129903&lt;/td&gt;&lt;td&gt;X1: 432605&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129903&lt;/td&gt;&lt;td&gt;Latitude:19.26165&lt;/td&gt;&lt;td&gt;Longitude:-99.64133&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64133,19.26165</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20564&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:38&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432605 2129903&lt;/td&gt;&lt;td&gt;X1: 432605&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129903&lt;/td&gt;&lt;td&gt;Latitude:19.26165&lt;/td&gt;&lt;td&gt;Longitude:-99.64133&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64133,19.26165</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20565&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:38&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129902&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129902&lt;/td&gt;&lt;td&gt;Latitude:19.26164&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26164</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20566&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129900&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129900&lt;/td&gt;&lt;td&gt;Latitude:19.26162&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26162</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20567&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129899&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129899&lt;/td&gt;&lt;td&gt;Latitude:19.26161&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26161</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20568&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129899&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129899&lt;/td&gt;&lt;td&gt;Latitude:19.26161&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26161</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20569&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432603 2129897&lt;/td&gt;&lt;td&gt;X1: 432603&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64135&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64135,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20570&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Yuca&lt;/td&gt;&lt;td&gt;Otros Nombres :Palma izote, yuca gigante, yuca sin espinas&lt;/td&gt;&lt;td&gt;Nombre Científico: Yucca guatemalensis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 35&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432602 2129897&lt;/td&gt;&lt;td&gt;X1: 432602&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64136000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Yuca</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64136000000001,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20571&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 32&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432602 2129897&lt;/td&gt;&lt;td&gt;X1: 432602&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64136000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64136000000001,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20572&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 26&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432601 2129896&lt;/td&gt;&lt;td&gt;X1: 432601&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129896&lt;/td&gt;&lt;td&gt;Latitude:19.26158&lt;/td&gt;&lt;td&gt;Longitude:-99.64136999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64136999999999,19.26158</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20573&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 22&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432600 2129895&lt;/td&gt;&lt;td&gt;X1: 432600&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129895&lt;/td&gt;&lt;td&gt;Latitude:19.26157&lt;/td&gt;&lt;td&gt;Longitude:-99.64138&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64138,19.26157</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20574&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 20&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2663&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432599 2129896&lt;/td&gt;&lt;td&gt;X1: 432599&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129896&lt;/td&gt;&lt;td&gt;Latitude:19.26158&lt;/td&gt;&lt;td&gt;Longitude:-99.64139&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64139,19.26158</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20575&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 1.6&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2663&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432598 2129895&lt;/td&gt;&lt;td&gt;X1: 432598&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129895&lt;/td&gt;&lt;td&gt;Latitude:19.26157&lt;/td&gt;&lt;td&gt;Longitude:-99.6414&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6414,19.26157</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20576&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2663&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432596 2129896&lt;/td&gt;&lt;td&gt;X1: 432596&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129896&lt;/td&gt;&lt;td&gt;Latitude:19.26158&lt;/td&gt;&lt;td&gt;Longitude:-99.64142&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64142,19.26158</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20577&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 18&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432593 2129895&lt;/td&gt;&lt;td&gt;X1: 432593&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129895&lt;/td&gt;&lt;td&gt;Latitude:19.26157&lt;/td&gt;&lt;td&gt;Longitude:-99.64145000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64145000000001,19.26157</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20578&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 18&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432592 2129895&lt;/td&gt;&lt;td&gt;X1: 432592&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129895&lt;/td&gt;&lt;td&gt;Latitude:19.26157&lt;/td&gt;&lt;td&gt;Longitude:-99.64146&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64146,19.26157</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20579&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 18&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432592 2129895&lt;/td&gt;&lt;td&gt;X1: 432592&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129895&lt;/td&gt;&lt;td&gt;Latitude:19.26157&lt;/td&gt;&lt;td&gt;Longitude:-99.64146&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64146,19.26157</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20580&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432593 2129899&lt;/td&gt;&lt;td&gt;X1: 432593&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129899&lt;/td&gt;&lt;td&gt;Latitude:19.26161&lt;/td&gt;&lt;td&gt;Longitude:-99.64145000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64145000000001,19.26161</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20581&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 22&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432593 2129900&lt;/td&gt;&lt;td&gt;X1: 432593&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129900&lt;/td&gt;&lt;td&gt;Latitude:19.26162&lt;/td&gt;&lt;td&gt;Longitude:-99.64145000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64145000000001,19.26162</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20582&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 22&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432592 2129901&lt;/td&gt;&lt;td&gt;X1: 432592&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129901&lt;/td&gt;&lt;td&gt;Latitude:19.26163&lt;/td&gt;&lt;td&gt;Longitude:-99.64146&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64146,19.26163</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20583&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432593 2129902&lt;/td&gt;&lt;td&gt;X1: 432593&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129902&lt;/td&gt;&lt;td&gt;Latitude:19.26164&lt;/td&gt;&lt;td&gt;Longitude:-99.64145000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64145000000001,19.26164</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20584&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:40&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432593 2129902&lt;/td&gt;&lt;td&gt;X1: 432593&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129902&lt;/td&gt;&lt;td&gt;Latitude:19.26164&lt;/td&gt;&lt;td&gt;Longitude:-99.64145000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64145000000001,19.26164</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20585&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:45&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432595 2129901&lt;/td&gt;&lt;td&gt;X1: 432595&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129901&lt;/td&gt;&lt;td&gt;Latitude:19.26163&lt;/td&gt;&lt;td&gt;Longitude:-99.64143&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64143,19.26163</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20586&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:47&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432578 2129897&lt;/td&gt;&lt;td&gt;X1: 432578&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64158999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64158999999999,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20587&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:47&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432579 2129897&lt;/td&gt;&lt;td&gt;X1: 432579&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64158&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64158,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20588&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Pino&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Pinus spp.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 24&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:47&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432578 2129897&lt;/td&gt;&lt;td&gt;X1: 432578&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64158999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Pino</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64158999999999,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20589&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:48&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432577 2129897&lt;/td&gt;&lt;td&gt;X1: 432577&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.6416&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6416,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20590&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 58&lt;/td&gt;&lt;td&gt;Altura (m): 9&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:48&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432576 2129897&lt;/td&gt;&lt;td&gt;X1: 432576&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64161&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64161,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20591&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:48&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432575 2129898&lt;/td&gt;&lt;td&gt;X1: 432575&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129898&lt;/td&gt;&lt;td&gt;Latitude:19.2616&lt;/td&gt;&lt;td&gt;Longitude:-99.64162&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64162,19.2616</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20592&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:48&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432575 2129898&lt;/td&gt;&lt;td&gt;X1: 432575&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129898&lt;/td&gt;&lt;td&gt;Latitude:19.2616&lt;/td&gt;&lt;td&gt;Longitude:-99.64162&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64162,19.2616</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20593&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tocon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 50&lt;/td&gt;&lt;td&gt;Altura (m): &lt;/td&gt;&lt;td&gt;Edad Relativa: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Seco&lt;/td&gt;&lt;td&gt;Acción a Realizar: Destoconar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:48&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432574 2129897&lt;/td&gt;&lt;td&gt;X1: 432574&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64163000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tocon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64163000000001,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20594&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 45&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:49&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432568 2129897&lt;/td&gt;&lt;td&gt;X1: 432568&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129897&lt;/td&gt;&lt;td&gt;Latitude:19.26159&lt;/td&gt;&lt;td&gt;Longitude:-99.64167999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64167999999999,19.26159</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20595&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:49&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2669&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432563 2129898&lt;/td&gt;&lt;td&gt;X1: 432563&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129898&lt;/td&gt;&lt;td&gt;Latitude:19.2616&lt;/td&gt;&lt;td&gt;Longitude:-99.64173&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64173,19.2616</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20596&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:49&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432562 2129898&lt;/td&gt;&lt;td&gt;X1: 432562&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129898&lt;/td&gt;&lt;td&gt;Latitude:19.2616&lt;/td&gt;&lt;td&gt;Longitude:-99.64174&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64174,19.2616</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20597&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:50&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432563 2129899&lt;/td&gt;&lt;td&gt;X1: 432563&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129899&lt;/td&gt;&lt;td&gt;Latitude:19.26161&lt;/td&gt;&lt;td&gt;Longitude:-99.64173&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64173,19.26161</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20598&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.6&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:52&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432640 2129918&lt;/td&gt;&lt;td&gt;X1: 432640&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64100000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64100000000001,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20599&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:52&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432637 2129918&lt;/td&gt;&lt;td&gt;X1: 432637&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64103&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64103,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20600&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:52&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2669&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432635 2129918&lt;/td&gt;&lt;td&gt;X1: 432635&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64105000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64105000000001,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20601&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:52&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2669&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432632 2129917&lt;/td&gt;&lt;td&gt;X1: 432632&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129917&lt;/td&gt;&lt;td&gt;Latitude:19.26177&lt;/td&gt;&lt;td&gt;Longitude:-99.64108&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64108,19.26177</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20602&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Durazno&lt;/td&gt;&lt;td&gt;Otros Nombres :Melocoton&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus persica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 28&lt;/td&gt;&lt;td&gt;Altura (m): 5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:52&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432640 2129921&lt;/td&gt;&lt;td&gt;X1: 432640&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129921&lt;/td&gt;&lt;td&gt;Latitude:19.26181&lt;/td&gt;&lt;td&gt;Longitude:-99.64100000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Durazno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64100000000001,19.26181</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20603&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Casia&lt;/td&gt;&lt;td&gt;Otros Nombres :Retama&lt;/td&gt;&lt;td&gt;Nombre Científico: Cassia fistula&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:52&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432639 2129921&lt;/td&gt;&lt;td&gt;X1: 432639&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129921&lt;/td&gt;&lt;td&gt;Latitude:19.26181&lt;/td&gt;&lt;td&gt;Longitude:-99.64100999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Casia</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64100999999999,19.26181</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20604&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432628 2129919&lt;/td&gt;&lt;td&gt;X1: 432628&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129919&lt;/td&gt;&lt;td&gt;Latitude:19.26179&lt;/td&gt;&lt;td&gt;Longitude:-99.64111&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64111,19.26179</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20605&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432628 2129919&lt;/td&gt;&lt;td&gt;X1: 432628&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129919&lt;/td&gt;&lt;td&gt;Latitude:19.26179&lt;/td&gt;&lt;td&gt;Longitude:-99.64111&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64111,19.26179</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432628 2129920&lt;/td&gt;&lt;td&gt;X1: 432628&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129920&lt;/td&gt;&lt;td&gt;Latitude:19.2618&lt;/td&gt;&lt;td&gt;Longitude:-99.64111&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64111,19.2618</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20607&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432625 2129921&lt;/td&gt;&lt;td&gt;X1: 432625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129921&lt;/td&gt;&lt;td&gt;Latitude:19.26181&lt;/td&gt;&lt;td&gt;Longitude:-99.64113999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64113999999999,19.26181</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20608&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432624 2129920&lt;/td&gt;&lt;td&gt;X1: 432624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129920&lt;/td&gt;&lt;td&gt;Latitude:19.2618&lt;/td&gt;&lt;td&gt;Longitude:-99.64115&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64115,19.2618</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20609&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432624 2129920&lt;/td&gt;&lt;td&gt;X1: 432624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129920&lt;/td&gt;&lt;td&gt;Latitude:19.2618&lt;/td&gt;&lt;td&gt;Longitude:-99.64115&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64115,19.2618</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20610&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432624 2129920&lt;/td&gt;&lt;td&gt;X1: 432624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129920&lt;/td&gt;&lt;td&gt;Latitude:19.2618&lt;/td&gt;&lt;td&gt;Longitude:-99.64115&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64115,19.2618</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20611&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:56&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432620 2129918&lt;/td&gt;&lt;td&gt;X1: 432620&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64118999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64118999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20612&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:56&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432620 2129918&lt;/td&gt;&lt;td&gt;X1: 432620&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64118999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64118999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20613&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:56&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432617 2129918&lt;/td&gt;&lt;td&gt;X1: 432617&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64122&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64122,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20614&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:56&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432615 2129918&lt;/td&gt;&lt;td&gt;X1: 432615&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64124&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64124,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20615&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:56&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432612 2129918&lt;/td&gt;&lt;td&gt;X1: 432612&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64127000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64127000000001,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20616&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:56&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2668&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432610 2129917&lt;/td&gt;&lt;td&gt;X1: 432610&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129917&lt;/td&gt;&lt;td&gt;Latitude:19.26177&lt;/td&gt;&lt;td&gt;Longitude:-99.64127999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64127999999999,19.26177</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20617&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 1.3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:57&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432618 2129919&lt;/td&gt;&lt;td&gt;X1: 432618&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129919&lt;/td&gt;&lt;td&gt;Latitude:19.26179&lt;/td&gt;&lt;td&gt;Longitude:-99.64121&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64121,19.26179</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20618&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Callistemo&lt;/td&gt;&lt;td&gt;Otros Nombres :Cepillo rojo&lt;/td&gt;&lt;td&gt;Nombre Científico: Callistemon viminalis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:57&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2666&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432615 2129919&lt;/td&gt;&lt;td&gt;X1: 432615&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129919&lt;/td&gt;&lt;td&gt;Latitude:19.26179&lt;/td&gt;&lt;td&gt;Longitude:-99.64124&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Callistemo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64124,19.26179</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20619&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129918&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20620&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129918&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20621&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129918&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20622&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129918&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20623&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432606 2129918&lt;/td&gt;&lt;td&gt;X1: 432606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64131999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64131999999999,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 30&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432602 2129918&lt;/td&gt;&lt;td&gt;X1: 432602&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64136000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64136000000001,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 28&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 12:59&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432599 2129919&lt;/td&gt;&lt;td&gt;X1: 432599&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129919&lt;/td&gt;&lt;td&gt;Latitude:19.26179&lt;/td&gt;&lt;td&gt;Longitude:-99.64139&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64139,19.26179</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20626&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.4&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 13:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2662&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432581 2129918&lt;/td&gt;&lt;td&gt;X1: 432581&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64156&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64156,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20627&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 32&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 13:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432579 2129918&lt;/td&gt;&lt;td&gt;X1: 432579&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64158&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64158,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20628&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 32&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 13:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432576 2129918&lt;/td&gt;&lt;td&gt;X1: 432576&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129918&lt;/td&gt;&lt;td&gt;Latitude:19.26178&lt;/td&gt;&lt;td&gt;Longitude:-99.64161&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64161,19.26178</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 20629&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1.7&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. Juan Fernandez Albarran&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 29/07/2015 13:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 432573 2129917&lt;/td&gt;&lt;td&gt;X1: 432573&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129917&lt;/td&gt;&lt;td&gt;Latitude:19.26177&lt;/td&gt;&lt;td&gt;Longitude:-99.64164&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Real de San Javier&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.64164,19.26177</coordinates>
+      </Point>
+  </Placemark>
+</Folder>
+</kml>

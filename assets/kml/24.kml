@@ -1,0 +1,289 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8639&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 13&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Mutilado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:49&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2659&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433681 2129798&lt;/td&gt;&lt;td&gt;X1: 433681&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129798&lt;/td&gt;&lt;td&gt;Latitude:19.26073&lt;/td&gt;&lt;td&gt;Longitude:-99.63109&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63109,19.26073</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8640&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Ficus&lt;/td&gt;&lt;td&gt;Otros Nombres :Benjamin&lt;/td&gt;&lt;td&gt;Nombre Científico: Ficus benjamina&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1.7&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Parcialmente descortezado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:49&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2658&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433685 2129799&lt;/td&gt;&lt;td&gt;X1: 433685&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129799&lt;/td&gt;&lt;td&gt;Latitude:19.26074&lt;/td&gt;&lt;td&gt;Longitude:-99.63105&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Ficus</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63105,19.26074</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8641&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tocon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): &lt;/td&gt;&lt;td&gt;Edad Relativa: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Seco&lt;/td&gt;&lt;td&gt;Acción a Realizar: Destoconar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:53&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2663&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433678 2129762&lt;/td&gt;&lt;td&gt;X1: 433678&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129762&lt;/td&gt;&lt;td&gt;Latitude:19.26041&lt;/td&gt;&lt;td&gt;Longitude:-99.63112&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tocon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63112,19.26041</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8642&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tocon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): &lt;/td&gt;&lt;td&gt;Edad Relativa: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Seco&lt;/td&gt;&lt;td&gt;Acción a Realizar: Destoconar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:53&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2663&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433678 2129762&lt;/td&gt;&lt;td&gt;X1: 433678&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129762&lt;/td&gt;&lt;td&gt;Latitude:19.26041&lt;/td&gt;&lt;td&gt;Longitude:-99.63112&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tocon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63112,19.26041</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8643&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tocon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): &lt;/td&gt;&lt;td&gt;Edad Relativa: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Seco&lt;/td&gt;&lt;td&gt;Acción a Realizar: Destoconar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:53&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2664&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433678 2129760&lt;/td&gt;&lt;td&gt;X1: 433678&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129760&lt;/td&gt;&lt;td&gt;Latitude:19.26039&lt;/td&gt;&lt;td&gt;Longitude:-99.63112&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tocon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63112,19.26039</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8644&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Nispero&lt;/td&gt;&lt;td&gt;Otros Nombres :Mispero&lt;/td&gt;&lt;td&gt;Nombre Científico: Eriobotrya japonica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 18&lt;/td&gt;&lt;td&gt;Altura (m): 6&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:54&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2662&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433677 2129718&lt;/td&gt;&lt;td&gt;X1: 433677&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129718&lt;/td&gt;&lt;td&gt;Latitude:19.26001&lt;/td&gt;&lt;td&gt;Longitude:-99.63112&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Nispero</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63112,19.26001</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8645&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Chamaecyparis&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Chamaecyparis lawsoniana&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 30&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: Podado&lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:55&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2662&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433681 2129680&lt;/td&gt;&lt;td&gt;X1: 433681&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129680&lt;/td&gt;&lt;td&gt;Latitude:19.25967&lt;/td&gt;&lt;td&gt;Longitude:-99.63109&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Chamaecyparis</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63109,19.25967</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8647&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): 6&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Plagado&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 15:57&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2662&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433672 2129621&lt;/td&gt;&lt;td&gt;X1: 433672&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129621&lt;/td&gt;&lt;td&gt;Latitude:19.25913&lt;/td&gt;&lt;td&gt;Longitude:-99.63117&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63117,19.25913</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8653&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 2.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: Podado&lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:01&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2660&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433643 2129620&lt;/td&gt;&lt;td&gt;X1: 433643&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129620&lt;/td&gt;&lt;td&gt;Latitude:19.25912&lt;/td&gt;&lt;td&gt;Longitude:-99.63144&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63144,19.25912</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8655&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 2.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2660&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433642 2129621&lt;/td&gt;&lt;td&gt;X1: 433642&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129621&lt;/td&gt;&lt;td&gt;Latitude:19.25913&lt;/td&gt;&lt;td&gt;Longitude:-99.63145&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63145,19.25913</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8656&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 2.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2660&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433642 2129621&lt;/td&gt;&lt;td&gt;X1: 433642&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129621&lt;/td&gt;&lt;td&gt;Latitude:19.25913&lt;/td&gt;&lt;td&gt;Longitude:-99.63145&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63145,19.25913</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8657&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 2.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2660&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433642 2129621&lt;/td&gt;&lt;td&gt;X1: 433642&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129621&lt;/td&gt;&lt;td&gt;Latitude:19.25913&lt;/td&gt;&lt;td&gt;Longitude:-99.63145&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63145,19.25913</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8658&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 2.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2660&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433642 2129621&lt;/td&gt;&lt;td&gt;X1: 433642&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129621&lt;/td&gt;&lt;td&gt;Latitude:19.25913&lt;/td&gt;&lt;td&gt;Longitude:-99.63145&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63145,19.25913</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8659&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 2.2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:03&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2661&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433642 2129621&lt;/td&gt;&lt;td&gt;X1: 433642&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129621&lt;/td&gt;&lt;td&gt;Latitude:19.25913&lt;/td&gt;&lt;td&gt;Longitude:-99.63145&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63145,19.25913</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8665&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:08&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2662&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433652 2129625&lt;/td&gt;&lt;td&gt;X1: 433652&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129625&lt;/td&gt;&lt;td&gt;Latitude:19.25917&lt;/td&gt;&lt;td&gt;Longitude:-99.63136&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63136,19.25917</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8673&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 30&lt;/td&gt;&lt;td&gt;Altura (m): 9&lt;/td&gt;&lt;td&gt;Edad Relativa: Viejo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433615 2129763&lt;/td&gt;&lt;td&gt;X1: 433615&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129763&lt;/td&gt;&lt;td&gt;Latitude:19.26042&lt;/td&gt;&lt;td&gt;Longitude:-99.63172&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63172,19.26042</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8674&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 30&lt;/td&gt;&lt;td&gt;Altura (m): 9&lt;/td&gt;&lt;td&gt;Edad Relativa: Viejo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2661&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433622 2129764&lt;/td&gt;&lt;td&gt;X1: 433622&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129764&lt;/td&gt;&lt;td&gt;Latitude:19.26042&lt;/td&gt;&lt;td&gt;Longitude:-99.63164999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63164999999999,19.26042</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8675&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Podado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433636 2129770&lt;/td&gt;&lt;td&gt;X1: 433636&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129770&lt;/td&gt;&lt;td&gt;Latitude:19.26048&lt;/td&gt;&lt;td&gt;Longitude:-99.63151999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63151999999999,19.26048</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 8676&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Podado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Col. La Municipal&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/07/2015 16:16&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433640 2129770&lt;/td&gt;&lt;td&gt;X1: 433640&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2129770&lt;/td&gt;&lt;td&gt;Latitude:19.26048&lt;/td&gt;&lt;td&gt;Longitude:-99.63148&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Municipal&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63148,19.26048</coordinates>
+      </Point>
+  </Placemark>
+</Folder>
+</kml>

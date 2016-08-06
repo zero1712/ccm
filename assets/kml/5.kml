@@ -1,0 +1,274 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26436&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 10:38&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2636&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435213 2127952&lt;/td&gt;&lt;td&gt;X1: 435213&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127952&lt;/td&gt;&lt;td&gt;Latitude:19.2441&lt;/td&gt;&lt;td&gt;Longitude:-99.61645&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61645,19.2441</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26437&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 10:38&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2631&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435205 2127919&lt;/td&gt;&lt;td&gt;X1: 435205&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127919&lt;/td&gt;&lt;td&gt;Latitude:19.2438&lt;/td&gt;&lt;td&gt;Longitude:-99.61651999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61651999999999,19.2438</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26438&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 10:39&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2632&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435206 2127917&lt;/td&gt;&lt;td&gt;X1: 435206&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127917&lt;/td&gt;&lt;td&gt;Latitude:19.24379&lt;/td&gt;&lt;td&gt;Longitude:-99.61651000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61651000000001,19.24379</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26512&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2629&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435430 2127944&lt;/td&gt;&lt;td&gt;X1: 435430&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127944&lt;/td&gt;&lt;td&gt;Latitude:19.24404&lt;/td&gt;&lt;td&gt;Longitude:-99.61438&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61438,19.24404</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26513&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2630&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435428 2127942&lt;/td&gt;&lt;td&gt;X1: 435428&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127942&lt;/td&gt;&lt;td&gt;Latitude:19.24402&lt;/td&gt;&lt;td&gt;Longitude:-99.6144&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6144,19.24402</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26514&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:27&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2639&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435307 2127898&lt;/td&gt;&lt;td&gt;X1: 435307&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127898&lt;/td&gt;&lt;td&gt;Latitude:19.24362&lt;/td&gt;&lt;td&gt;Longitude:-99.61555&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61555,19.24362</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26515&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2637&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435268 2127895&lt;/td&gt;&lt;td&gt;X1: 435268&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127895&lt;/td&gt;&lt;td&gt;Latitude:19.24359&lt;/td&gt;&lt;td&gt;Longitude:-99.61592&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61592,19.24359</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26516&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2637&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435267 2127895&lt;/td&gt;&lt;td&gt;X1: 435267&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127895&lt;/td&gt;&lt;td&gt;Latitude:19.24359&lt;/td&gt;&lt;td&gt;Longitude:-99.61593000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61593000000001,19.24359</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26517&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2637&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435261 2127893&lt;/td&gt;&lt;td&gt;X1: 435261&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127893&lt;/td&gt;&lt;td&gt;Latitude:19.24357&lt;/td&gt;&lt;td&gt;Longitude:-99.61599&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61599,19.24357</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26518&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2637&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435260 2127892&lt;/td&gt;&lt;td&gt;X1: 435260&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127892&lt;/td&gt;&lt;td&gt;Latitude:19.24356&lt;/td&gt;&lt;td&gt;Longitude:-99.616&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.616,19.24356</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26581&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:32&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2640&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435254 2127889&lt;/td&gt;&lt;td&gt;X1: 435254&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127889&lt;/td&gt;&lt;td&gt;Latitude:19.24353&lt;/td&gt;&lt;td&gt;Longitude:-99.61606&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61606,19.24353</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26582&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:32&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2641&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435253 2127889&lt;/td&gt;&lt;td&gt;X1: 435253&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127889&lt;/td&gt;&lt;td&gt;Latitude:19.24353&lt;/td&gt;&lt;td&gt;Longitude:-99.61606999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61606999999999,19.24353</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26583&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:32&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2640&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435252 2127889&lt;/td&gt;&lt;td&gt;X1: 435252&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127889&lt;/td&gt;&lt;td&gt;Latitude:19.24353&lt;/td&gt;&lt;td&gt;Longitude:-99.61608&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61608,19.24353</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26584&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:32&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2640&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435252 2127889&lt;/td&gt;&lt;td&gt;X1: 435252&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127889&lt;/td&gt;&lt;td&gt;Latitude:19.24353&lt;/td&gt;&lt;td&gt;Longitude:-99.61608&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61608,19.24353</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26585&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Colorin&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Erythrina americana&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 35&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: San Jorge Pueblo Nuevo&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 13/08/2015 11:35&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2635&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435091 2127891&lt;/td&gt;&lt;td&gt;X1: 435091&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127891&lt;/td&gt;&lt;td&gt;Latitude:19.24355&lt;/td&gt;&lt;td&gt;Longitude:-99.61761&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Colorin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61761,19.24355</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26919&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/08/2015 11:17&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2631&lt;/td&gt;&lt;td&gt;UTM: 14 Q 435009 2127900&lt;/td&gt;&lt;td&gt;X1: 435009&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127900&lt;/td&gt;&lt;td&gt;Latitude:19.24363&lt;/td&gt;&lt;td&gt;Longitude:-99.61839000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61839000000001,19.24363</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26920&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/08/2015 11:17&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2644&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434997 2127893&lt;/td&gt;&lt;td&gt;X1: 434997&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127893&lt;/td&gt;&lt;td&gt;Latitude:19.24356&lt;/td&gt;&lt;td&gt;Longitude:-99.6185&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6185,19.24356</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 26921&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 14/08/2015 11:18&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2645&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434989 2127889&lt;/td&gt;&lt;td&gt;X1: 434989&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127889&lt;/td&gt;&lt;td&gt;Latitude:19.24353&lt;/td&gt;&lt;td&gt;Longitude:-99.61857999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: La Union&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.61857999999999,19.24353</coordinates>
+      </Point>
+  </Placemark>
+</Folder>
+</kml>

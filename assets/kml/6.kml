@@ -1,0 +1,1024 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32410&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Eucalipto dolar&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Eucalyptus cinerea&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:34:18AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434475 2127368&lt;/td&gt;&lt;td&gt;X1: 434475&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127368&lt;/td&gt;&lt;td&gt;Latitude:19.2388&lt;/td&gt;&lt;td&gt;Longitude:-99.62345000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Eucalipto dolar</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62345000000001,19.2388</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32412&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Pino&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Pinus pseudostrobus &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 0.5&lt;/td&gt;&lt;td&gt;Altura (m): 0.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:34:37AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2653&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434471 2127379&lt;/td&gt;&lt;td&gt;X1: 434471&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127379&lt;/td&gt;&lt;td&gt;Latitude:19.2389&lt;/td&gt;&lt;td&gt;Longitude:-99.62349&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Pino</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62349,19.2389</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32413&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Oyamel&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Abies religiosa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 1&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:35:32AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2654&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434451 2127422&lt;/td&gt;&lt;td&gt;X1: 434451&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127422&lt;/td&gt;&lt;td&gt;Latitude:19.23929&lt;/td&gt;&lt;td&gt;Longitude:-99.62367999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Oyamel</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62367999999999,19.23929</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32416&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Palma abanico&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Washingtonia robusta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 0.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:35:54AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2655&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434448 2127429&lt;/td&gt;&lt;td&gt;X1: 434448&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127429&lt;/td&gt;&lt;td&gt;Latitude:19.23935&lt;/td&gt;&lt;td&gt;Longitude:-99.62371&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Palma abanico</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62371,19.23935</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32418&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Palma abanico&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Washingtonia robusta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:36:37AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2655&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434444 2127438&lt;/td&gt;&lt;td&gt;X1: 434444&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127438&lt;/td&gt;&lt;td&gt;Latitude:19.23943&lt;/td&gt;&lt;td&gt;Longitude:-99.62375&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Palma abanico</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62375,19.23943</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32421&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: BI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:37:18AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434442 2127444&lt;/td&gt;&lt;td&gt;X1: 434442&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127444&lt;/td&gt;&lt;td&gt;Latitude:19.23949&lt;/td&gt;&lt;td&gt;Longitude:-99.62376999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62376999999999,19.23949</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32422&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Ciruelo&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus domestica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:37:35AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434441 2127444&lt;/td&gt;&lt;td&gt;X1: 434441&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127444&lt;/td&gt;&lt;td&gt;Latitude:19.23949&lt;/td&gt;&lt;td&gt;Longitude:-99.62378&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Ciruelo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62378,19.23949</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32425&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:37:57AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434440 2127449&lt;/td&gt;&lt;td&gt;X1: 434440&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127449&lt;/td&gt;&lt;td&gt;Latitude:19.23953&lt;/td&gt;&lt;td&gt;Longitude:-99.62379&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62379,19.23953</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32427&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Liquidambar&lt;/td&gt;&lt;td&gt;Otros Nombres :Copalme, ocozote&lt;/td&gt;&lt;td&gt;Nombre Científico: Liquidambar styraciflua&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 1&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:38:15AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2655&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434437 2127453&lt;/td&gt;&lt;td&gt;X1: 434437&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127453&lt;/td&gt;&lt;td&gt;Latitude:19.23957&lt;/td&gt;&lt;td&gt;Longitude:-99.62381999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Liquidambar</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62381999999999,19.23957</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32429&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:38:30AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434437 2127456&lt;/td&gt;&lt;td&gt;X1: 434437&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127456&lt;/td&gt;&lt;td&gt;Latitude:19.23959&lt;/td&gt;&lt;td&gt;Longitude:-99.62381999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62381999999999,19.23959</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32431&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Ciruelo&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus domestica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:38:48AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434435 2127459&lt;/td&gt;&lt;td&gt;X1: 434435&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127459&lt;/td&gt;&lt;td&gt;Latitude:19.23962&lt;/td&gt;&lt;td&gt;Longitude:-99.62383&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Ciruelo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62383,19.23962</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32433&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:39:14AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434434 2127460&lt;/td&gt;&lt;td&gt;X1: 434434&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127460&lt;/td&gt;&lt;td&gt;Latitude:19.23963&lt;/td&gt;&lt;td&gt;Longitude:-99.62384&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62384,19.23963</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32436&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:40:01AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434430 2127464&lt;/td&gt;&lt;td&gt;X1: 434430&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127464&lt;/td&gt;&lt;td&gt;Latitude:19.23967&lt;/td&gt;&lt;td&gt;Longitude:-99.62388&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62388,19.23967</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32437&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Ciruelo&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus domestica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:40:30AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434431 2127465&lt;/td&gt;&lt;td&gt;X1: 434431&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127465&lt;/td&gt;&lt;td&gt;Latitude:19.23968&lt;/td&gt;&lt;td&gt;Longitude:-99.62387&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Ciruelo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62387,19.23968</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32440&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 10&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme, BI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:41:07AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2655&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434429 2127471&lt;/td&gt;&lt;td&gt;X1: 434429&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127471&lt;/td&gt;&lt;td&gt;Latitude:19.23973&lt;/td&gt;&lt;td&gt;Longitude:-99.62389&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62389,19.23973</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32443&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:41:39AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434426 2127475&lt;/td&gt;&lt;td&gt;X1: 434426&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127475&lt;/td&gt;&lt;td&gt;Latitude:19.23977&lt;/td&gt;&lt;td&gt;Longitude:-99.62392&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62392,19.23977</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32445&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:42:02AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434423 2127480&lt;/td&gt;&lt;td&gt;X1: 434423&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127480&lt;/td&gt;&lt;td&gt;Latitude:19.23981&lt;/td&gt;&lt;td&gt;Longitude:-99.62394999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62394999999999,19.23981</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32446&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:42:28AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2654&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434418 2127486&lt;/td&gt;&lt;td&gt;X1: 434418&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127486&lt;/td&gt;&lt;td&gt;Latitude:19.23986&lt;/td&gt;&lt;td&gt;Longitude:-99.624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.624,19.23986</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32449&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Acacia negra&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Acacia melanoxylon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:43:21AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2652&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434416 2127491&lt;/td&gt;&lt;td&gt;X1: 434416&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127491&lt;/td&gt;&lt;td&gt;Latitude:19.23991&lt;/td&gt;&lt;td&gt;Longitude:-99.62402&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Acacia negra</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62402,19.23991</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32450&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 3&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:43:31AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2651&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434413 2127495&lt;/td&gt;&lt;td&gt;X1: 434413&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127495&lt;/td&gt;&lt;td&gt;Latitude:19.23995&lt;/td&gt;&lt;td&gt;Longitude:-99.62405&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62405,19.23995</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32452&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 8&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:43:48AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2652&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434409 2127500&lt;/td&gt;&lt;td&gt;X1: 434409&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127500&lt;/td&gt;&lt;td&gt;Latitude:19.23999&lt;/td&gt;&lt;td&gt;Longitude:-99.62408000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62408000000001,19.23999</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32454&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Liquidambar&lt;/td&gt;&lt;td&gt;Otros Nombres :Copalme, ocozote&lt;/td&gt;&lt;td&gt;Nombre Científico: Liquidambar styraciflua&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:44:32AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2655&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434407 2127504&lt;/td&gt;&lt;td&gt;X1: 434407&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127504&lt;/td&gt;&lt;td&gt;Latitude:19.24003&lt;/td&gt;&lt;td&gt;Longitude:-99.6241&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Liquidambar</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6241,19.24003</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32456&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:44:47AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434405 2127506&lt;/td&gt;&lt;td&gt;X1: 434405&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127506&lt;/td&gt;&lt;td&gt;Latitude:19.24005&lt;/td&gt;&lt;td&gt;Longitude:-99.62412&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62412,19.24005</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32459&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:45:31AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434400 2127510&lt;/td&gt;&lt;td&gt;X1: 434400&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127510&lt;/td&gt;&lt;td&gt;Latitude:19.24008&lt;/td&gt;&lt;td&gt;Longitude:-99.62417000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62417000000001,19.24008</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32461&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:45:49AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2658&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434398 2127512&lt;/td&gt;&lt;td&gt;X1: 434398&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127512&lt;/td&gt;&lt;td&gt;Latitude:19.2401&lt;/td&gt;&lt;td&gt;Longitude:-99.62419&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62419,19.2401</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32463&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 1&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:46:06AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434398 2127514&lt;/td&gt;&lt;td&gt;X1: 434398&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127514&lt;/td&gt;&lt;td&gt;Latitude:19.24012&lt;/td&gt;&lt;td&gt;Longitude:-99.62419&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62419,19.24012</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32465&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:46:24AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434395 2127518&lt;/td&gt;&lt;td&gt;X1: 434395&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127518&lt;/td&gt;&lt;td&gt;Latitude:19.24015&lt;/td&gt;&lt;td&gt;Longitude:-99.62421999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62421999999999,19.24015</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32469&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:47:03AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2652&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434389 2127522&lt;/td&gt;&lt;td&gt;X1: 434389&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127522&lt;/td&gt;&lt;td&gt;Latitude:19.24019&lt;/td&gt;&lt;td&gt;Longitude:-99.62427&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62427,19.24019</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32471&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Jacaranda&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Jacaranda mimosifolia&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 1&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:47:21AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2651&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434386 2127526&lt;/td&gt;&lt;td&gt;X1: 434386&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127526&lt;/td&gt;&lt;td&gt;Latitude:19.24023&lt;/td&gt;&lt;td&gt;Longitude:-99.62430000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Jacaranda</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62430000000001,19.24023</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32473&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:47:35AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2651&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434382 2127530&lt;/td&gt;&lt;td&gt;X1: 434382&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127530&lt;/td&gt;&lt;td&gt;Latitude:19.24026&lt;/td&gt;&lt;td&gt;Longitude:-99.62434&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62434,19.24026</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32474&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Acacia negra&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Acacia melanoxylon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 3&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Inclinado &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:47:47AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2650&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434384 2127532&lt;/td&gt;&lt;td&gt;X1: 434384&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127532&lt;/td&gt;&lt;td&gt;Latitude:19.24028&lt;/td&gt;&lt;td&gt;Longitude:-99.62432&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Acacia negra</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62432,19.24028</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32475&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Acacia negra&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Acacia melanoxylon&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:47:55AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2651&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434382 2127534&lt;/td&gt;&lt;td&gt;X1: 434382&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127534&lt;/td&gt;&lt;td&gt;Latitude:19.2403&lt;/td&gt;&lt;td&gt;Longitude:-99.62434&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Acacia negra</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62434,19.2403</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32476&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 3&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:48:06AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2650&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434379 2127533&lt;/td&gt;&lt;td&gt;X1: 434379&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127533&lt;/td&gt;&lt;td&gt;Latitude:19.24029&lt;/td&gt;&lt;td&gt;Longitude:-99.62437&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62437,19.24029</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32478&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 0.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:48:22AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2650&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434378 2127537&lt;/td&gt;&lt;td&gt;X1: 434378&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127537&lt;/td&gt;&lt;td&gt;Latitude:19.24032&lt;/td&gt;&lt;td&gt;Longitude:-99.62438&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62438,19.24032</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32479&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Fresno&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Fraxinus udhei&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): 10&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Inclinado &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:53:35AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2653&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434395 2127504&lt;/td&gt;&lt;td&gt;X1: 434395&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127504&lt;/td&gt;&lt;td&gt;Latitude:19.24003&lt;/td&gt;&lt;td&gt;Longitude:-99.62421999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Fresno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62421999999999,19.24003</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32489&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 40&lt;/td&gt;&lt;td&gt;Altura (m): 8&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 11:59:06AM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2657&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434212 2127679&lt;/td&gt;&lt;td&gt;X1: 434212&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127679&lt;/td&gt;&lt;td&gt;Latitude:19.2416&lt;/td&gt;&lt;td&gt;Longitude:-99.62596000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62596000000001,19.2416</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32492&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 70&lt;/td&gt;&lt;td&gt;Altura (m): 13&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: TRI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 12:00:09PM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2656&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434181 2127702&lt;/td&gt;&lt;td&gt;X1: 434181&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127702&lt;/td&gt;&lt;td&gt;Latitude:19.24181&lt;/td&gt;&lt;td&gt;Longitude:-99.62626&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62626,19.24181</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32497&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 55&lt;/td&gt;&lt;td&gt;Altura (m): 12&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 12:05:03PM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2658&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434033 2127802&lt;/td&gt;&lt;td&gt;X1: 434033&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127802&lt;/td&gt;&lt;td&gt;Latitude:19.24271&lt;/td&gt;&lt;td&gt;Longitude:-99.62766999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62766999999999,19.24271</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32498&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 60&lt;/td&gt;&lt;td&gt;Altura (m): 12&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: BI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 12:05:19PM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2658&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434033 2127802&lt;/td&gt;&lt;td&gt;X1: 434033&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127802&lt;/td&gt;&lt;td&gt;Latitude:19.24271&lt;/td&gt;&lt;td&gt;Longitude:-99.62766999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62766999999999,19.24271</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32501&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 45&lt;/td&gt;&lt;td&gt;Altura (m): 10&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: BI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 12:06:50PM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2659&lt;/td&gt;&lt;td&gt;UTM: 14 Q 434006 2127820&lt;/td&gt;&lt;td&gt;X1: 434006&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127820&lt;/td&gt;&lt;td&gt;Latitude:19.24287&lt;/td&gt;&lt;td&gt;Longitude:-99.62793000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.62793000000001,19.24287</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 32506&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 55&lt;/td&gt;&lt;td&gt;Altura (m): 10&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: BI&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Prol. Heriberto Enriquez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: &lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 28-AGO-15 12:10:44PM&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433904 2127912&lt;/td&gt;&lt;td&gt;X1: 433904&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127912&lt;/td&gt;&lt;td&gt;Latitude:19.2437&lt;/td&gt;&lt;td&gt;Longitude:-99.6289&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6289,19.2437</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34854&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tejocote&lt;/td&gt;&lt;td&gt;Otros Nombres :Manzanita&lt;/td&gt;&lt;td&gt;Nombre Científico: Crataegus mexicana&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 30&lt;/td&gt;&lt;td&gt;Altura (m): 5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Plagado&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de formacion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: En mal estado&lt;/td&gt;&lt;td&gt;Lugar: Venustiano Carranza&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2698&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433324 2127298&lt;/td&gt;&lt;td&gt;X1: 433324&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127298&lt;/td&gt;&lt;td&gt;Latitude:19.23813&lt;/td&gt;&lt;td&gt;Longitude:-99.6344&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tejocote</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6344,19.23813</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34855&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tejocote&lt;/td&gt;&lt;td&gt;Otros Nombres :Manzanita&lt;/td&gt;&lt;td&gt;Nombre Científico: Crataegus mexicana&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 35&lt;/td&gt;&lt;td&gt;Altura (m): 5&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Plagado&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de formacion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: En mal estado&lt;/td&gt;&lt;td&gt;Lugar: Venustiano Carranza&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:02&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2697&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433326 2127299&lt;/td&gt;&lt;td&gt;X1: 433326&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127299&lt;/td&gt;&lt;td&gt;Latitude:19.23814&lt;/td&gt;&lt;td&gt;Longitude:-99.63437999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tejocote</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63437999999999,19.23814</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34856&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 55&lt;/td&gt;&lt;td&gt;Altura (m): 6&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de formacion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Trifurcado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Venustiano Carranza&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:04&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2694&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433342 2127297&lt;/td&gt;&lt;td&gt;X1: 433342&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127297&lt;/td&gt;&lt;td&gt;Latitude:19.23812&lt;/td&gt;&lt;td&gt;Longitude:-99.63423&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63423,19.23812</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34857&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 32&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Venustiano Carranza&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:05&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2693&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433371 2127297&lt;/td&gt;&lt;td&gt;X1: 433371&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127297&lt;/td&gt;&lt;td&gt;Latitude:19.23812&lt;/td&gt;&lt;td&gt;Longitude:-99.63395&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63395,19.23812</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34858&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Tocon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 50&lt;/td&gt;&lt;td&gt;Altura (m): &lt;/td&gt;&lt;td&gt;Edad Relativa: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Seco&lt;/td&gt;&lt;td&gt;Acción a Realizar: Destoconar&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Venustiano Carranza&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:06&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2698&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433452 2127300&lt;/td&gt;&lt;td&gt;X1: 433452&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127300&lt;/td&gt;&lt;td&gt;Latitude:19.23815&lt;/td&gt;&lt;td&gt;Longitude:-99.63318&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Tocon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63318,19.23815</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34859&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 5&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Venustiano Carranza&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:08&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2699&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433546 2127331&lt;/td&gt;&lt;td&gt;X1: 433546&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127331&lt;/td&gt;&lt;td&gt;Latitude:19.23844&lt;/td&gt;&lt;td&gt;Longitude:-99.63229&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63229,19.23844</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34860&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Palma abanico&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Washingtonia robusta&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 24&lt;/td&gt;&lt;td&gt;Altura (m): 1.1&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Vicente Suarez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:09&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2705&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433609 2127380&lt;/td&gt;&lt;td&gt;X1: 433609&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127380&lt;/td&gt;&lt;td&gt;Latitude:19.23888&lt;/td&gt;&lt;td&gt;Longitude:-99.63169000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Palma abanico</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63169000000001,19.23888</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34861&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 3&lt;/td&gt;&lt;td&gt;Altura (m): 0.9&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Vicente Suarez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:09&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2705&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433608 2127384&lt;/td&gt;&lt;td&gt;X1: 433608&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127384&lt;/td&gt;&lt;td&gt;Latitude:19.23892&lt;/td&gt;&lt;td&gt;Longitude:-99.6317&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6317,19.23892</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34862&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 2&lt;/td&gt;&lt;td&gt;Altura (m): 0.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Vicente Suarez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:09&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2705&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433608 2127386&lt;/td&gt;&lt;td&gt;X1: 433608&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127386&lt;/td&gt;&lt;td&gt;Latitude:19.23893&lt;/td&gt;&lt;td&gt;Longitude:-99.6317&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6317,19.23893</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34863&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 15&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: 5 de Mayo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:11&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2702&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433651 2127378&lt;/td&gt;&lt;td&gt;X1: 433651&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127378&lt;/td&gt;&lt;td&gt;Latitude:19.23886&lt;/td&gt;&lt;td&gt;Longitude:-99.63129000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63129000000001,19.23886</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34864&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: 5 de Mayo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:12&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2693&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433676 2127388&lt;/td&gt;&lt;td&gt;X1: 433676&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127388&lt;/td&gt;&lt;td&gt;Latitude:19.23896&lt;/td&gt;&lt;td&gt;Longitude:-99.63105&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63105,19.23896</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34865&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: 5 de Mayo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:12&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2694&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433678 2127389&lt;/td&gt;&lt;td&gt;X1: 433678&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127389&lt;/td&gt;&lt;td&gt;Latitude:19.23896&lt;/td&gt;&lt;td&gt;Longitude:-99.63103&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63103,19.23896</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34866&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 35&lt;/td&gt;&lt;td&gt;Altura (m): 6&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de formacion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Rodrigo Sanchez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:17&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2682&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433441 2127489&lt;/td&gt;&lt;td&gt;X1: 433441&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127489&lt;/td&gt;&lt;td&gt;Latitude:19.23986&lt;/td&gt;&lt;td&gt;Longitude:-99.63329&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63329,19.23986</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34867&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 40&lt;/td&gt;&lt;td&gt;Altura (m): 7&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de mantenimiento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: Si&lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Rodrigo Sanchez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2693&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433770 2127499&lt;/td&gt;&lt;td&gt;X1: 433770&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127499&lt;/td&gt;&lt;td&gt;Latitude:19.23996&lt;/td&gt;&lt;td&gt;Longitude:-99.63016&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63016,19.23996</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34868&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 38&lt;/td&gt;&lt;td&gt;Altura (m): 7&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de mantenimiento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: Si&lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Rodrigo Sanchez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:20&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2692&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433759 2127499&lt;/td&gt;&lt;td&gt;X1: 433759&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127499&lt;/td&gt;&lt;td&gt;Latitude:19.23996&lt;/td&gt;&lt;td&gt;Longitude:-99.63027&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63027,19.23996</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34869&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 40&lt;/td&gt;&lt;td&gt;Altura (m): 7&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de mantenimiento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: Si&lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Bifurcado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Rodrigo Sanchez&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:21&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2692&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433758 2127499&lt;/td&gt;&lt;td&gt;X1: 433758&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127499&lt;/td&gt;&lt;td&gt;Latitude:19.23996&lt;/td&gt;&lt;td&gt;Longitude:-99.63028&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63028,19.23996</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34870&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Trueno&lt;/td&gt;&lt;td&gt;Otros Nombres :Troeno&lt;/td&gt;&lt;td&gt;Nombre Científico: Ligustrum lucidum&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 24&lt;/td&gt;&lt;td&gt;Altura (m): 1.1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Deforme&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Vicente Guerrero&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:24&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2689&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433717 2127467&lt;/td&gt;&lt;td&gt;X1: 433717&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127467&lt;/td&gt;&lt;td&gt;Latitude:19.23967&lt;/td&gt;&lt;td&gt;Longitude:-99.63066999999999&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Trueno</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63066999999999,19.23967</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34871&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 3&lt;/td&gt;&lt;td&gt;Altura (m): 1&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Vicente Guerrero&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2694&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433720 2127463&lt;/td&gt;&lt;td&gt;X1: 433720&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127463&lt;/td&gt;&lt;td&gt;Latitude:19.23963&lt;/td&gt;&lt;td&gt;Longitude:-99.63064&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63064,19.23963</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34872&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 2&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Vicente Guerrero&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:27&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2697&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433756 2127386&lt;/td&gt;&lt;td&gt;X1: 433756&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127386&lt;/td&gt;&lt;td&gt;Latitude:19.23894&lt;/td&gt;&lt;td&gt;Longitude:-99.63029&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63029,19.23894</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34874&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cipres italiano&lt;/td&gt;&lt;td&gt;Otros Nombres :Cipres del Mediterraneo&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus sempervirens&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 6&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: 5 de Mayo&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 11:34&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2687&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433753 2127380&lt;/td&gt;&lt;td&gt;X1: 433753&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127380&lt;/td&gt;&lt;td&gt;Latitude:19.23889&lt;/td&gt;&lt;td&gt;Longitude:-99.63032&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cipres italiano</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63032,19.23889</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34899&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro blanco&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus lusitanica&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 50&lt;/td&gt;&lt;td&gt;Altura (m): 12&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de mantenimiento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:22&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2682&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433761 2127667&lt;/td&gt;&lt;td&gt;X1: 433761&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127667&lt;/td&gt;&lt;td&gt;Latitude:19.24148&lt;/td&gt;&lt;td&gt;Longitude:-99.63025&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro blanco</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63025,19.24148</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34900&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Privada 1 Camino a San Felipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2665&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433767 2127828&lt;/td&gt;&lt;td&gt;X1: 433767&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127828&lt;/td&gt;&lt;td&gt;Latitude:19.24293&lt;/td&gt;&lt;td&gt;Longitude:-99.6302&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.6302,19.24293</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34901&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Cedro limon&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Cupressus macrocarpa&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 4&lt;/td&gt;&lt;td&gt;Altura (m): 1.8&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Privada 1 Camino a San Felipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2667&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433768 2127828&lt;/td&gt;&lt;td&gt;X1: 433768&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127828&lt;/td&gt;&lt;td&gt;Latitude:19.24293&lt;/td&gt;&lt;td&gt;Longitude:-99.63019&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Cedro limon</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63019,19.24293</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34902&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Ciruelo rojo&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus cerasifera&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 22&lt;/td&gt;&lt;td&gt;Altura (m): 2.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Camino a San Felipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2670&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433721 2127892&lt;/td&gt;&lt;td&gt;X1: 433721&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127892&lt;/td&gt;&lt;td&gt;Latitude:19.24351&lt;/td&gt;&lt;td&gt;Longitude:-99.63064&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Ciruelo rojo</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63064,19.24351</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34903&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Peral&lt;/td&gt;&lt;td&gt;Otros Nombres :&lt;/td&gt;&lt;td&gt;Nombre Científico: Pyrus communis&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 12&lt;/td&gt;&lt;td&gt;Altura (m): 3.5&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Camino a San Felipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:28&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2671&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433719 2127892&lt;/td&gt;&lt;td&gt;X1: 433719&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127892&lt;/td&gt;&lt;td&gt;Latitude:19.24351&lt;/td&gt;&lt;td&gt;Longitude:-99.63066000000001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Peral</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63066000000001,19.24351</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34904&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 3&lt;/td&gt;&lt;td&gt;Altura (m): 0.7&lt;/td&gt;&lt;td&gt;Edad Relativa: Joven&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Camino a San Felipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:29&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2672&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433711 2127888&lt;/td&gt;&lt;td&gt;X1: 433711&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127888&lt;/td&gt;&lt;td&gt;Latitude:19.24347&lt;/td&gt;&lt;td&gt;Longitude:-99.63074&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63074,19.24347</coordinates>
+      </Point>
+  </Placemark>
+  <Placemark>
+    <description>"Description" = &lt;table border='1px'&gt;&lt;tr&gt;&lt;td&gt;Identificador Único: 34905&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ESPECIE:Capulin&lt;/td&gt;&lt;td&gt;Otros Nombres :Patol, zompantle&lt;/td&gt;&lt;td&gt;Nombre Científico: Prunus capulli&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Diámetro (cm): 40&lt;/td&gt;&lt;td&gt;Altura (m): 4&lt;/td&gt;&lt;td&gt;Edad Relativa: Maduro&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Estado Fitosanitario: Sano&lt;/td&gt;&lt;td&gt;Acción a Realizar: Poda de formacion&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a banqueta: &lt;/td&gt;&lt;td&gt;Daño a guarnición: &lt;/td&gt;&lt;td&gt;Daño a cableado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a la calle: &lt;/td&gt;&lt;td&gt;Daño al drenaje: &lt;/td&gt;&lt;td&gt;Daño al alumbrado: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Daño a construcción: &lt;/td&gt;&lt;td&gt;Daño a camellón: &lt;/td&gt;&lt;td&gt;Daño a la red de gas natural: &lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Afectación al alineamiento: &lt;/td&gt;&lt;td&gt;Afectaciones varias: &lt;/td&gt;&lt;td&gt;Estado General: Bifurcado&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Observaciones: &lt;/td&gt;&lt;td&gt;Lugar: Camino a San Felipe&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Comunidad: La Magdalena Ocotitlan&lt;/td&gt;&lt;td&gt;Fecha de último levantamiento: 04/09/2015 12:30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ALTITUD: 2675&lt;/td&gt;&lt;td&gt;UTM: 14 Q 433647 2127856&lt;/td&gt;&lt;td&gt;X1: 433647&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Y1: 2127856&lt;/td&gt;&lt;td&gt;Latitude:19.24318&lt;/td&gt;&lt;td&gt;Longitude:-99.63135&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;DELEGACION: Santa Cruz Ocotitlan&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;<br/></description>
+    <name>Capulin</name>
+<Style>
+  <IconStyle>
+    <Icon>
+      <href>http://buscarv.com.mx/assets/images/icon4.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-99.63135,19.24318</coordinates>
+      </Point>
+  </Placemark>
+</Folder>
+</kml>
